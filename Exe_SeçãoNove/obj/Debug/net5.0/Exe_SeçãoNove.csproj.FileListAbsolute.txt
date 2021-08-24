@@ -1,0 +1,16 @@
+C:\Windows\Temp\ws-vs2019\Exe_SeçãoNove\Exe_SeçãoNove\bin\Debug\net5.0\Exe_SeçãoNove.exe
+C:\Windows\Temp\ws-vs2019\Exe_SeçãoNove\Exe_SeçãoNove\bin\Debug\net5.0\Exe_SeçãoNove.deps.json
+C:\Windows\Temp\ws-vs2019\Exe_SeçãoNove\Exe_SeçãoNove\bin\Debug\net5.0\Exe_SeçãoNove.runtimeconfig.json
+C:\Windows\Temp\ws-vs2019\Exe_SeçãoNove\Exe_SeçãoNove\bin\Debug\net5.0\Exe_SeçãoNove.runtimeconfig.dev.json
+C:\Windows\Temp\ws-vs2019\Exe_SeçãoNove\Exe_SeçãoNove\bin\Debug\net5.0\Exe_SeçãoNove.dll
+C:\Windows\Temp\ws-vs2019\Exe_SeçãoNove\Exe_SeçãoNove\bin\Debug\net5.0\ref\Exe_SeçãoNove.dll
+C:\Windows\Temp\ws-vs2019\Exe_SeçãoNove\Exe_SeçãoNove\bin\Debug\net5.0\Exe_SeçãoNove.pdb
+C:\Windows\Temp\ws-vs2019\Exe_SeçãoNove\Exe_SeçãoNove\obj\Debug\net5.0\Exe_SeçãoNove.csproj.AssemblyReference.cache
+C:\Windows\Temp\ws-vs2019\Exe_SeçãoNove\Exe_SeçãoNove\obj\Debug\net5.0\Exe_SeçãoNove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\Temp\ws-vs2019\Exe_SeçãoNove\Exe_SeçãoNove\obj\Debug\net5.0\Exe_SeçãoNove.AssemblyInfoInputs.cache
+C:\Windows\Temp\ws-vs2019\Exe_SeçãoNove\Exe_SeçãoNove\obj\Debug\net5.0\Exe_SeçãoNove.AssemblyInfo.cs
+C:\Windows\Temp\ws-vs2019\Exe_SeçãoNove\Exe_SeçãoNove\obj\Debug\net5.0\Exe_SeçãoNove.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\ws-vs2019\Exe_SeçãoNove\Exe_SeçãoNove\obj\Debug\net5.0\Exe_SeçãoNove.dll
+C:\Windows\Temp\ws-vs2019\Exe_SeçãoNove\Exe_SeçãoNove\obj\Debug\net5.0\ref\Exe_SeçãoNove.dll
+C:\Windows\Temp\ws-vs2019\Exe_SeçãoNove\Exe_SeçãoNove\obj\Debug\net5.0\Exe_SeçãoNove.pdb
+C:\Windows\Temp\ws-vs2019\Exe_SeçãoNove\Exe_SeçãoNove\obj\Debug\net5.0\Exe_SeçãoNove.genruntimeconfig.cache
